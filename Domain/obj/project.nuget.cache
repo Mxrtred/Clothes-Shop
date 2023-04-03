@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8jMyKRJOtbh6Bsuwpx8ftFnVVEEG4JyPGbc1/r4EHL8tUQQlGU8KG9wkKUSP7WNNhoeBWOmdzMCxj6Tvr8DNg==",
+  "success": true,
+  "projectFilePath": "D:\\Rider Projects\\Clothes shop\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.4.21253.7\\system.componentmodel.annotations.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
+  "logs": []
+}
